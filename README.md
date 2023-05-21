@@ -10,7 +10,7 @@ I really want to learn new things and be part of a great team, that make me cont
     
 </div>
 <div id= "header" align = "center">
-    <img src="https://img.freepik.com/foto-gratis/concepto-rpa-pantalla-tactil-mano-borrosa_23-2149311914.jpg" alt="" width="200">
+    <img src="https://img.freepik.com/vector-gratis/particula-tecnologia-abstracta-realista-fondo_23-2148431735.jpg" alt="" width="200">
     
 </div>
 
