@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Angel a Aeronautical Engineer who become into __Full Stack Developer__ discovery myself on this field every day
+<h2> Hey there! I'm Angel, a Aeronautical Engineer who become into Full Stack Developer, discovery myself on this field every day.
  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
