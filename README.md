@@ -1,20 +1,15 @@
-<div id="header" align="center">
-    <img src="https://www.canva.com/design/DAFhQY_9Lto/nt_ySkvm6loOJJLzm5F7Og/watch?utm_content=DAFhQY_9Lto&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="">
-    <h1 align="center"> Hi there </h1>
-    <h2> I´m a Aeronautical  Engineer who become into Full Stack Developer
-discovery myself on this field and  with some much curiosity every day. 
+<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-I really want to learn new things and be part of a great team, that make me contribute with greats proyects, for this i´ve  practiced every day and keep coding, because is the way that i could improve mi skills and the way tha we can grow up like a pro.
-    </h2>
-    
-    
-</div>
-<div id= "header" align = "center">
-    <img src="https://img.freepik.com/vector-gratis/particula-tecnologia-abstracta-realista-fondo_23-2148431735.jpg" alt="" width="200">
-    
-</div>
+<h3> 👨🏻‍💻 About Me </h3>
 
-- - -
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 
     
