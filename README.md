@@ -1,8 +1,8 @@
 <div id="header" align="center">
     <img src="https://www.canva.com/design/DAFhQY_9Lto/nt_ySkvm6loOJJLzm5F7Og/watch?utm_content=DAFhQY_9Lto&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="">
     <h1 align="center"> Hi there </h1>
-    <h2 align="center"> I´m a Aeronautical  Engineer who become into Full Stack Developer
-i´m new on this field and  with some much curiosity every day. 
+    <h2> I´m a Aeronautical  Engineer who become into Full Stack Developer
+discovery myself on this field and  with some much curiosity every day. 
 
 I really want to learn new things and be part of a great team, that make me contribute with greats proyects, for this i´ve  practiced every day and keep coding, because is the way that i could improve mi skills and the way tha we can grow up like a pro.
     </h2>
