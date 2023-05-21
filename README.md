@@ -10,7 +10,7 @@ I really want to learn new things and be part of a great team, that make me cont
     
 </div>
 <div id= "header" align = "center">
-    <img src="https://www.canva.com/design/DAFhQY_9Lto/nt_ySkvm6loOJJLzm5F7Og/watch?utm_content=DAFhQY_9Lto&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="" width="200">
+    <img src="https://www.canva.com/design/DAFhQY_9Lto/nt_ySkvm6loOJJLzm5F7Og/view?utm_content=DAFhQY_9Lto&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" alt="" width="200">
 </div>
 
 - - -
