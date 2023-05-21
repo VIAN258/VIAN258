@@ -10,7 +10,7 @@ I really want to learn new things and be part of a great team, that make me cont
     
 </div>
 <div id= "header" align = "center">
-    <img src="[https://media.giphy.com/media/QAsBwSjx9zVKoGp9nr/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adslzone.net%2Fcomo-se-hace%2Fphotoshop%2Fquitar-fondo-imagen%2F&psig=AOvVaw0k69k0ynVNZpZGv6Sc68e9&ust=1684716201270000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKirtcKZhf8CFQAAAAAdAAAAABAE)" alt="" width="200">
+    <img src="https://media.giphy.com/media/QAsBwSjx9zVKoGp9nr/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.adslzone.net%2Fcomo-se-hace%2Fphotoshop%2Fquitar-fondo-imagen%2F&psig=AOvVaw0k69k0ynVNZpZGv6Sc68e9&ust=1684716201270000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKirtcKZhf8CFQAAAAAdAAAAABAE" alt="" width="200">
 </div>
 
 - - -
