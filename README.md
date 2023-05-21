@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://www.canva.com/design/DAFhQY_9Lto/nt_ySkvm6loOJJLzm5F7Og/watch?utm_content=DAFhQY_9Lto&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="" width="200">
+    <img src="https://www.canva.com/design/DAFhQY_9Lto/nt_ySkvm6loOJJLzm5F7Og/watch?utm_content=DAFhQY_9Lto&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
     <h1 align="center">🖖 Hello to you 🖖</h1>
     <h2 align="center"> I´m a ✨Mechanical Engineer✨ who become into a ✨✨✨__Full Stack Developer__✨✨✨
 🌱i´m new on this field🌱and  i love TI ⚡⚡⚡.......  😄. 
