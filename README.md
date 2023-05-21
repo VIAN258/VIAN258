@@ -10,7 +10,7 @@ I really want to learn new things and be part of a great team, that make me cont
     
 </div>
 <div id= "header" align = "center">
-    <img src="https://media.giphy.com/media/N57KpqDb0tlWE/giphy.gif](https://media.giphy.com/media/QAsBwSjx9zVKoGp9nr/giphy.gif" alt="" width="200">
+    <img src="https://media.giphy.com/media/QAsBwSjx9zVKoGp9nr/giphy.gif" alt="" width="200">
 </div>
 
 - - -
