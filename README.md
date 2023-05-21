@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics (platzi).
-- 🌱 &nbsp; Enthusiast in Machine.
+- 🌱 &nbsp; Enthusiast in Machine Learning.
 - ✍️ &nbsp; Play guitar, bass, drums, snowboarding.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
    
